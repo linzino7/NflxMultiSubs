@@ -78,6 +78,12 @@ Best ever Chrome/Firefox extension to unleash bilingual subtitles on Netflix!
 - 目前開發者沒用到的功能就不會加入
 
 
+快速鍵
+--------
+- 關閉子字幕：數字鍵盤0
+- 開啟第一字幕（通常為中文）：數字鍵盤1
+- 開啟第二字幕（通常為英文）：數字鍵盤2
+感謝zorro0555 貢獻
 
 回報問題
 --------
